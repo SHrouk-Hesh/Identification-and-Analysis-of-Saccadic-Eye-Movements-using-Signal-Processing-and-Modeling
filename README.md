@@ -20,9 +20,6 @@ This relationship between peak angular velocity and amplitude is known as the sa
 
 ![image](https://github.com/SHrouk-Hesh/Identification-and-Analysis-of-Saccadic-Eye-Movements-using-Signal-Processing-and-Modeling/assets/121517766/788852d9-b93b-4df4-be98-387bfbd92a36)
 
-## Methodology 
-
-![image](https://github.com/SHrouk-Hesh/Identification-and-Analysis-of-Saccadic-Eye-Movements-using-Signal-Processing-and-Modeling/assets/121517766/8e9428f2-68a7-4ebb-86c0-a5d3c426e166)
 
 
 ![image](https://github.com/SHrouk-Hesh/Identification-and-Analysis-of-Saccadic-Eye-Movements-using-Signal-Processing-and-Modeling/assets/121517766/38b107a1-26d4-4bc2-8341-1f87d2f5bdb4)
