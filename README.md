@@ -1,0 +1,2 @@
+# Identification-and-Analysis-of-Saccadic-Eye-Movements-using-Signal-Processing-and-Modeling
+Welcome to our groundbreaking research, where we propose an innovative algorithm, SaccadeWaveDetect, for the detection of both normal and slow saccades. Saccades are rapid eye movements that involve a rotation of the eye from one angle to another. So, we offer a robust and efficient approach to saccade detection.
